@@ -44,7 +44,9 @@ body{
  }
   a:hover{
     color: #EAF6F6; 
-      
+   .profile-pic{
+    border-radius: 100%;
+    width:300px;     
  }
   .top-container {
     background-color: #7ae8ec;
